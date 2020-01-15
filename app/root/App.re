@@ -6,5 +6,5 @@ module App = {
         <div>{React.string("Welcome")}</div>
     };
 }
-
+/* beta added */
 /* add */
