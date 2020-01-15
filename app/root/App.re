@@ -3,6 +3,7 @@ module App = {
     let make = () => {
         /* alpha add */
         <div>{React.string("Welcome")}</div>
+        /* alpha again added */
     };
 }
 
