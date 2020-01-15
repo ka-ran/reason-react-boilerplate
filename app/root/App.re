@@ -4,5 +4,3 @@ module App = {
         <div>{React.string("Welcome")}</div>
     };
 }
-
-/* added something */
