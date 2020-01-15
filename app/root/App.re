@@ -1,4 +1,5 @@
 module App = {
+    /* test 2 */
     [@react.component]
     let make = () => {
         /* alpha add */
