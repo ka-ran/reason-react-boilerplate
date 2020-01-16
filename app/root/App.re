@@ -2,6 +2,9 @@ module App = {
 
     [@react.component]
     let make = () => {
-        <div>{React.string("Welcome")}</div>
+        <div>
+            <Component1 />
+            <Component2 />
+        </div>
     };
-}
+};
